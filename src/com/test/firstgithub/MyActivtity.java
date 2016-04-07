@@ -22,5 +22,7 @@ public class MyActivtity extends Activity {
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.myactivity_layout);
+		textview = (TextView) findViewById(R.id.textview_main);
+		textview.setText("110");
 	}
 }
