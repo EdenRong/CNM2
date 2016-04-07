@@ -11,7 +11,7 @@ public class MyActivtity extends Activity {
 	private TextView textview;
 	public int a;
 	public String b;
-	
+	public boolean c;
 	
 	
 	
