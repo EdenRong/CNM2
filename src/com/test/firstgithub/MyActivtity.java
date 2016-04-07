@@ -15,6 +15,7 @@ public class MyActivtity extends Activity {
 	public char d;
 	public long e;
 	public int ddd;
+	public int sgsdrfewf;
 	
 	
 	@Override
