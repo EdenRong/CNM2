@@ -13,7 +13,8 @@ public class MyActivtity extends Activity {
 	public String b;
 	public boolean c;
 	public char d;
-	
+	public long e;
+	public int ddd;
 	
 	
 	@Override
