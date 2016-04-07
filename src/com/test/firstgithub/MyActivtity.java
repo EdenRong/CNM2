@@ -12,6 +12,7 @@ public class MyActivtity extends Activity {
 	public int a;
 	public String b;
 	public boolean c;
+	public char d;
 	
 	
 	
